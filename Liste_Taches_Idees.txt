@@ -1,0 +1,23 @@
+1. créer le repository
+
+2. prendre le fichier kaggle et le cleaner (colonnes inutiles)
+3. Data scraping : World Bank...
+4. Ajouter données pertinentes dans Jupiter principal
+5. cleaner les données ajoutées
+6. Stats : Chercher des corrélations, calculer des stats
+7. Stats : top 5 par continent, zones géographiques / groupby / pivot
+   table
+8. Refaire un ranking général en pondérant en fonction de la corrélation
+7. faire des graphes matplotlib
+
+
+9. Faire la prez
+
+
+Idées:
+- dataviz : fond de carte du monde
+
+data à scrapper:
+- density
+- ruralité
+- nb enfants par femme
