@@ -1,0 +1,23 @@
+,Ladder score,Logged GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,Explained by: Log GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption,Dystopia + residual,Fertility rate 2020 estimate (births/woman),Urban Population (%),Sunshine duration per Year,Rank_Logged GDP per capita,Rank_Social support,Rank_Healthy life expectancy,Rank_Freedom to make life choices,Rank_Generosity
+Ladder score,NA,highly correlated,highly correlated,highly correlated,NA,NA,NA,highly correlated,highly correlated,highly correlated,NA,NA,highly correlated,NA,NA,highly correlated,NA,NA,NA,NA,NA,NA
+Logged GDP per capita,highly correlated,NA,highly correlated,highly correlated,NA,NA,NA,highly correlated,highly correlated,highly correlated,NA,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,NA,NA
+Social support,highly correlated,highly correlated,NA,highly correlated,NA,NA,NA,highly correlated,highly correlated,highly correlated,NA,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,NA,NA
+Healthy life expectancy,highly correlated,highly correlated,highly correlated,NA,NA,NA,NA,highly correlated,highly correlated,highly correlated,NA,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,NA,NA
+Freedom to make life choices,NA,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,highly correlated,highly correlated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Generosity,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,NA,highly correlated,highly correlated,highly correlated,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Perceptions of corruption,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,highly correlated
+Explained by: Log GDP per capita,highly correlated,highly correlated,highly correlated,highly correlated,NA,NA,NA,NA,highly correlated,highly correlated,NA,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,NA,NA
+Explained by: Social support,highly correlated,highly correlated,highly correlated,highly correlated,NA,NA,NA,highly correlated,NA,highly correlated,NA,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,NA,NA
+Explained by: Healthy life expectancy,highly correlated,highly correlated,highly correlated,highly correlated,NA,NA,NA,highly correlated,highly correlated,NA,NA,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,NA,NA
+Explained by: Freedom to make life choices,NA,NA,NA,NA,highly correlated,highly correlated,NA,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Explained by: Generosity,NA,NA,NA,NA,highly correlated,highly correlated,NA,NA,NA,NA,highly correlated,NA,highly correlated,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Explained by: Perceptions of corruption,highly correlated,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dystopia + residual,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fertility rate 2020 estimate (births/woman),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,highly correlated,highly correlated,highly correlated,NA,NA
+Urban Population (%),highly correlated,highly correlated,highly correlated,highly correlated,NA,NA,NA,highly correlated,highly correlated,highly correlated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sunshine duration per Year,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rank_Logged GDP per capita,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,highly correlated,NA,NA,NA,highly correlated,highly correlated,NA,NA
+Rank_Social support,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,highly correlated,NA,NA,highly correlated,NA,highly correlated,NA,NA
+Rank_Healthy life expectancy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,highly correlated,NA,NA,highly correlated,highly correlated,NA,NA,NA
+Rank_Freedom to make life choices,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,highly correlated
+Rank_Generosity,NA,NA,NA,NA,NA,NA,highly correlated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,highly correlated,NA
