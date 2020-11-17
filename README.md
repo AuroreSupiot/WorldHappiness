@@ -1,4 +1,4 @@
-# Project3_WorldHappiness
+# WorldHappiness
 
 ## Data Source
 
